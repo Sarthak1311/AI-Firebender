@@ -1,4 +1,4 @@
-# AI-Firebender
+
 # 🔥 AI Firebender
 
 Control virtual fire and your **Mac screen brightness** using just **hand gestures** and **snaps** – powered by MediaPipe and OpenCV.
@@ -13,44 +13,15 @@ This project lets you:
 ## ✨ Features
 
 - 🔥 Snap with your right hand to summon fire at that position
-- 🤘 Make a peace sign with your left hand and move into:
-  - 🟥 **Red box** to increase fire (and screen brightness)
-  - 🟦 **Blue box** to decrease fire (and screen brightness)
-- 🖥️ Brightness control support for **macOS**
-- 🧠 Real-time hand tracking with **MediaPipe**
-
----
-
-## 🧩 Project Structure
-# 🔥 AI Firebender
-
-Control virtual fire and your **Mac screen brightness** using just **hand gestures** and **snaps** – powered by MediaPipe and OpenCV.
-
-This project lets you:
-- Summon fire using a snap gesture with your **right hand**
-- Increase or decrease fire size using your **left hand's fingers** in specific zones
-- Change **screen brightness on macOS** based on fire intensity
-
----
-
-## 📸 Demo
-
-https://user-images.githubusercontent.com/demo-video-placeholder
-
----
-
-## ✨ Features
-
-- 🔥 Snap with your right hand to summon fire at that position
-- 🤘 Make a peace sign with your left hand and move into:
+- Make a peace sign with your left hand and move into:
 - 🟥 **Red box** to increase fire (and screen brightness)
 - 🟦 **Blue box** to decrease fire (and screen brightness)
-- 🖥️ Brightness control support for **macOS**
-- 🧠 Real-time hand tracking with **MediaPipe**
+-  Brightness control support for **macOS**
+-  Real-time hand tracking with **MediaPipe**
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 │
 ├── main.py # Main application logic
 ├── fire_animator.py # Handles fire animation rendering
@@ -60,7 +31,7 @@ https://user-images.githubusercontent.com/demo-video-placeholder
 ├── fire/ # Folder with fire animation frames
 └── README.md # You're here!
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.8+
 - macOS (for brightness control)
